@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1d14a2bf-3046-4819-ae2c-9d8480d88fe5" />
 
-### Do Básico ao Super Avançado
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux" />
