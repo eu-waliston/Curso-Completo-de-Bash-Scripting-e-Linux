@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Prática-100%25-important?style=for-the-badge" />
 </p>
 
----
 
 ## 🚀 Sobre o Curso
 
@@ -41,7 +40,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 
 ✅ Desenvolver ferramentas CLI próprias
 
----
 
 # 📚 Estrutura do Curso
 
@@ -54,7 +52,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Comandos essenciais
 * Ajuda e documentação
 
----
 
 ## 🟢 Módulo 2 — O Coração do Bash
 
@@ -68,7 +65,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Redirecionamentos
 * Entrada e saída padrão
 
----
 
 ## 🟢 Módulo 3 — Lógica de Programação com Bash
 
@@ -82,7 +78,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * break e continue
 * Boas práticas de fluxo
 
----
 
 ## 🟢 Módulo 4 — Processamento de Texto
 
@@ -94,7 +89,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Transformação de arquivos
 * Relatórios automatizados
 
----
 
 ## 🟢 Módulo 5 — Processos, Sinais e Jobs
 
@@ -106,7 +100,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * killall
 * sinais do sistema
 
----
 
 ## 🟢 Módulo 6 — Sistema de Arquivos, Permissões e Discos
 
@@ -118,7 +111,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Montagem
 * Gerenciamento de armazenamento
 
----
 
 ## 🟢 Módulo 7 — Gerenciamento de Software e Pacotes
 
@@ -130,7 +122,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Flatpak
 * Compilação manual
 
----
 
 ## 🟢 Módulo 8 — Redes e Conectividade
 
@@ -143,7 +134,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * wget
 * Diagnóstico de rede
 
----
 
 ## 🟢 Módulo 9 — Administração do Sistema
 
@@ -156,7 +146,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Cron
 * Backups automatizados
 
----
 
 ## 🟢 Módulo 10 — Scripting Avançado
 
@@ -169,7 +158,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Logging
 * Modularização
 
----
 
 ## 🟢 Módulo 11 — Awk e Sed em Profundidade
 
@@ -178,7 +166,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Expressões complexas
 * Automação de relatórios
 
----
 
 ## 🟢 Módulo 12 — Segurança e Hardening
 
@@ -189,7 +176,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Hardening Linux
 * Boas práticas defensivas
 
----
 
 ## 🟢 Módulo 13 — Performance, Monitoramento e Profiling
 
@@ -201,7 +187,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * perf
 * análise de gargalos
 
----
 
 ## 🟢 Módulo 14 — Virtualização, Containers e Automação DevOps
 
@@ -212,7 +197,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Introdução ao Kubernetes
 * Automação moderna
 
----
 
 ## 🟢 Módulo 15 — Automação de Verdade
 
@@ -226,7 +210,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * GitHub Actions
 * Pipelines
 
----
 
 ## 🟢 Módulo 16 — Super Avançado
 
@@ -240,7 +223,6 @@ Ao longo da jornada você aprenderá desde os comandos mais básicos até técni
 * Frameworks CLI
 * Ferramentas completas para produção
 
----
 
 # 🛠️ Metodologia
 
@@ -253,7 +235,6 @@ O curso segue uma abordagem:
 * 🔥 Desafios reais
 * 🚀 Projetos completos
 
----
 
 # 🏆 Projeto Final
 
@@ -270,7 +251,6 @@ Ao concluir o curso, você desenvolverá uma solução completa de automação e
 
 Tudo integrado em um projeto profissional digno de portfólio.
 
----
 
 # 🎓 Certificação de Conhecimentos
 
@@ -285,13 +265,11 @@ Ao finalizar todos os módulos, você terá uma base sólida para atuar em área
 * SRE
 * Desenvolvimento Backend
 
----
 
 ## 💡 Frase do Curso
 
 > "Quem domina o terminal não apenas usa o sistema. Controla o sistema."
 
----
 
 <p align="center">
   <strong>🐧 Linux + Bash + Automação = Poder 🚀</strong>
