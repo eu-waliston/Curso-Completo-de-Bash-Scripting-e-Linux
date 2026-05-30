@@ -1,4 +1,4 @@
-# 🐧 Curso Completo de Bash Scripting e Linux
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1d14a2bf-3046-4819-ae2c-9d8480d88fe5" />
 
 ### Do Básico ao Super Avançado
 
