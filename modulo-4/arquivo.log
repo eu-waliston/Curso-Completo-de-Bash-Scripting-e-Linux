@@ -1,0 +1,11 @@
+2024-01-15 10:23:45 INFO  Servidor iniciado com sucesso
+2024-01-15 10:24:12 DEBUG Verificando conexão com banco de dados
+2024-01-15 10:25:01 ERRO  Falha na conexão: timeout
+2024-01-15 10:25:30 INFO  Tentando reconexão...
+2024-01-15 10:26:00 ERRO  Conexão recusada pelo servidor
+2024-01-15 10:26:15 WARN  Número máximo de tentativas atingido
+2024-01-15 10:27:00 INFO  Serviço de backup iniciado
+2024-01-15 10:28:30 DEBUG Arquivo temporário criado em /tmp/backup123
+2024-01-15 10:29:00 erro  Permissão negada ao acessar diretório (minúsculo)
+2024-01-15 10:30:00 ERRO  Falha crítica: sistema será reiniciado
+2024-01-15 10:31:00 INFO  Sistema recuperado com sucesso

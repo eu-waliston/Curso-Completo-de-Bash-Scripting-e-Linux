@@ -1,0 +1,22 @@
+2024-02-01 08:00:00 INFO  Sistema iniciado
+2024-02-01 08:01:15 DEBUG Rotina de verificação agendada
+2024-02-01 08:02:30 INFO  Processamento de dados em lote iniciado
+2024-02-01 08:03:45 ERRO  Falha ao conectar ao banco de dados principal
+2024-02-01 08:03:46 INFO  Tentando servidor de backup...
+2024-02-01 08:03:47 DEBUG String de conexão: dbbackup.internal:5432
+2024-02-01 08:03:48 WARN  Conexão lenta detectada
+2024-02-01 08:05:00 INFO  Conexão estabelecida com servidor backup
+2024-02-01 08:06:30 INFO  Processamento retomado
+2024-02-01 08:10:00 ERRO  Timeout na consulta SQL - Tabela 'pedidos'
+2024-02-01 08:10:01 DEBUG Query: SELECT * FROM pedidos WHERE status='pendente'
+2024-02-01 08:10:02 INFO  Tentando otimização de índice
+2024-02-01 08:10:03 WARN  Índice fragmentado detectado
+2024-02-01 08:15:00 INFO  Índice reconstruído com sucesso
+2024-02-01 08:20:00 INFO  Processamento concluído: 15000 registros
+2024-02-01 08:21:00 ERRO  Erro ao enviar relatório por e-mail
+2024-02-01 08:21:00 FATAL Erro no client
+2024-02-01 08:21:01 DEBUG Servidor SMTP: smtp.empresa.com:587
+2024-02-01 08:21:02 INFO  Tentando método alternativo de envio
+2024-02-01 08:21:03 WARN  API de e-mail com latência alta
+2024-02-01 08:25:00 INFO  Relatório enviado via API alternativa
+2024-02-01 08:30:00 INFO  Rotina finalizada

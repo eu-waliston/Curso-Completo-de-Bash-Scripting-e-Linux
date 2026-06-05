@@ -1,0 +1,13 @@
+[2024-01-20 14:30:00] INFO: Aplicação iniciada
+[2024-01-20 14:31:15] DEBUG: Carregando configurações do arquivo config.ini
+[2024-01-20 14:32:00] ERRO: Arquivo de configuração não encontrado
+[2024-01-20 14:32:30] DEBUG: Tentando criar arquivo padrão
+[2024-01-20 14:33:00] ERRO: Sem permissão para criar arquivo
+[2024-01-20 14:33:45] WARNING: Usando configurações padrão em memória
+[2024-01-20 14:34:00] INFO: Conexão estabelecida com a porta 8080
+[2024-01-20 14:35:00] DEBUG: Validando certificado SSL
+[2024-01-20 14:36:00] ERRO: Certificado expirado (case diferente)
+[2024-01-20 14:37:00] ERRO: Falha na comunicação segura
+[2024-01-20 14:38:00] DEBUG: Tentando conexão sem SSL
+[2024-01-20 14:39:00] INFO: Conexão alternativa estabelecida
+[2024-01-20 14:40:00] FATAL: Erro - Sistema será encerrado
