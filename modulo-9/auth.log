@@ -1,0 +1,21 @@
+Jun  5 02:10:14 server sshd[1023]: Failed password for root from 192.168.1.50 port 52144 ssh2
+Jun  5 02:10:18 server sshd[1023]: Failed password for root from 192.168.1.50 port 52144 ssh2
+Jun  5 02:10:22 server sshd[1023]: Failed password for root from 192.168.1.50 port 52144 ssh2
+
+Jun  5 02:15:31 server sshd[1050]: Accepted password for admin from 192.168.1.100 port 53321 ssh2
+
+Jun  5 02:20:07 server sshd[1102]: Failed password for invalid user test from 203.0.113.10 port 40123 ssh2
+Jun  5 02:20:09 server sshd[1102]: Failed password for invalid user test from 203.0.113.10 port 40123 ssh2
+
+Jun  5 02:35:44 server sshd[1188]: Failed password for ubuntu from 198.51.100.22 port 60001 ssh2
+Jun  5 02:35:49 server sshd[1188]: Failed password for ubuntu from 198.51.100.22 port 60001 ssh2
+Jun  5 02:35:53 server sshd[1188]: Failed password for ubuntu from 198.51.100.22 port 60001 ssh2
+
+Jun  5 02:50:17 server sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+
+Jun  5 03:05:01 server sshd[1300]: Failed password for root from 203.0.113.77 port 41234 ssh2
+Jun  5 03:05:03 server sshd[1300]: Failed password for root from 203.0.113.77 port 41234 ssh2
+Jun  5 03:05:06 server sshd[1300]: Failed password for root from 203.0.113.77 port 41234 ssh2
+Jun  5 03:05:08 server sshd[1300]: Failed password for root from 203.0.113.77 port 41234 ssh2
+
+Jun  5 03:15:25 server sshd[1350]: Accepted publickey for devops from 192.168.1.120 port 55000 ssh2
